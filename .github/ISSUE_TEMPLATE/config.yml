@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/myfield-one/myfield/security/advisories/new
+    about: Report security issues privately. Do not open a public issue.
+  - name: Product feedback
+    url: https://github.com/myfield-one/myfield/issues/new/choose
+    about: Bugs and feature requests for MyField and other products in MyField family.
